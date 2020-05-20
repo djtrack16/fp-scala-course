@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/dliddell/Desktop/code/fp-scala/patmat/target/scala-2.13/progfun1-patmat_2.13-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat/Huffman.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala/patmat/src/main/scala/patmat/Huffman.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	patmat/HuffmanInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala/patmat/src/main/scala/patmat/HuffmanInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

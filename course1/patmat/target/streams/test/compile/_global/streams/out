@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala/patmat/src/test/scala/patmat/HuffmanSuite.scala:55:105: value Leaf is not a member of patmat.Leaf[0m
+[0m[[0m[31merror[0m] [0m[0m    val leaflist = List(Fork(Leaf('e', 4), Leaf('t', 2), List('e', 't'), 6), Leaf('x', 1), Leaf('y', 5) Leaf('u', 10))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

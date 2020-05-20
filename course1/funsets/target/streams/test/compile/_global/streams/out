@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala/funsets/src/test/scala/funsets/FunSetSuite.scala:151:11: mapped  is already defined as variable mapped[0m
+[0m[[0m[31merror[0m] [0m[0m      var mapped = map(s, x => x - 10)[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala/funsets/src/test/scala/funsets/FunSetSuite.scala:150:7: not found: value t[0m
+[0m[[0m[31merror[0m] [0m[0m      t = union(filter(s, y => y < 2), s1000)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

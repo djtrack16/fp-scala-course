@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/dliddell/Desktop/code/fp-scala/forcomp/target/scala-2.13/progfun1-forcomp_2.13-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Anagrams.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala/forcomp/src/main/scala/forcomp/Anagrams.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/AnagramsInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala/forcomp/src/main/scala/forcomp/AnagramsInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

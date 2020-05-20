@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala/patmat/src/main/scala/patmat/Huffman.scala:113:28: value weight is not a member of patmat.CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m    if (xs.isEmpty || elem.weight <= xs.head.weight) elem :: xs[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala/patmat/src/main/scala/patmat/Huffman.scala:113:46: value weight is not a member of patmat.CodeTree[0m
+[0m[[0m[31merror[0m] [0m[0m    if (xs.isEmpty || elem.weight <= xs.head.weight) elem :: xs[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,1 @@
+scalac -deprecation -classpath /Users/dliddell/Desktop/code/fp-scala/funsets/target/scala-2.13/classes -language:implicitConversions -bootclasspath /Users/dliddell/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar /Users/dliddell/Desktop/code/fp-scala/funsets/src/main/scala/funsets/FunSets.scala

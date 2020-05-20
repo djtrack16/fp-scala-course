@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.0":{"hashes":[["/Users/dliddell/Desktop/code/fp-scala/forcomp/src/test/scala/forcomp/AnagramsSuite.scala","a7496991340974563eac5c81eec1e329e77e7de8"]],"lastModifiedTimes":[]}}]

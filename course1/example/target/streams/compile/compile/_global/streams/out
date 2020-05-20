@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala/example/src/main/scala/example/Lists.scala:26:6: not found: type tailrec[0m
+[0m[[0m[31merror[0m] [0m[0m    @tailrec[0m
+[0m[[0m[31merror[0m] [0m[0m     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

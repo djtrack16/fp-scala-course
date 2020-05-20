@@ -1,0 +1,30 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(funsets.FunSetSuite, sbt.ForkMain$AnnotatedFingerscan@76b56624, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mforall returns true if all bounded integers in s satisfy the function P[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mforall returns true if all bounded integers in s satisfy the function P[0m finished, took 0.254 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mdiff contains elements in s that are not in t[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mdiff contains elements in s that are not in t[0m finished, took 0.011 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mmap applies the function F to all elements in s and returns that transformation[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mmap applies the function F to all elements in s and returns that transformation[0m finished, took 0.025 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36msingleton set one contains one[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36msingleton set one contains one[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mfilter contains elements in s that satisfy the function P[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mfilter contains elements in s that satisfy the function P[0m finished, took 0.01 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36munion contains all elements of each set[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36munion contains all elements of each set[0m finished, took 0.035 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mintersection contains common elements of all sets[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mintersection contains common elements of all sets[0m finished, took 0.009 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mexists returns true if at least 1 bounded integer in s satisfies the function P[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mexists returns true if at least 1 bounded integer in s satisfies the function P[0m finished, took 0.014 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mcontains is implemented[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest funsets.[33mFunSetSuite[0m.[36mcontains is implemented[0m finished, took 0.024 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 9 total, 0.757s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 9 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 9, Failed 0, Errors 0, Passed 9[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funsets.FunSetSuite[0m

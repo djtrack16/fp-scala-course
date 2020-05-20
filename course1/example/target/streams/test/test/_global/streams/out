@@ -1,0 +1,38 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(example.ListsSuite, sbt.ForkMain$AnnotatedFingerscan@76b56624, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mone plus one is three (0pts)?[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36mone plus one is three (0pts)?[0m finished, took 0.129 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of negative numbers numbers (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of negative numbers numbers (10pts)[0m finished, took 0.1 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few numbers (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few numbers (10pts)[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mintNotZero throws an exception if its argument is 0[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36mintNotZero throws an exception if its argument is 0[0m finished, took 0.018 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of empty list (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of empty list (10pts)[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of positive and negative numbers (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of positive and negative numbers (10pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mdetails why one plus one is not three (0pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36mdetails why one plus one is not three (0pts)[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a list of repeated numbers (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a list of repeated numbers (10pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of repeated numbers (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of repeated numbers (10pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few numbers (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few numbers (10pts)[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a positive and negative numbers (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a positive and negative numbers (10pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of empty list should throw java.util.NoSuchElementException (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of empty list should throw java.util.NoSuchElementException (10pts)[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mone plus one is two (0pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest example.[33mListsSuite[0m.[36mone plus one is two (0pts)[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 13 total, 0.379s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 13 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 13, Failed 0, Errors 0, Passed 13[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example.ListsSuite[0m
