@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala-course/course2/streams/src/test/scala/streams/BloxorzSuite.scala:89:56: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : collection.immutable.LazyList.type[0m
+[0m[[0m[31merror[0m] [0m[0m required: scala.collection.Factory[Equals with java.io.Serializable,LazyList[(this.Block, List[this.Move])]][0m
+[0m[[0m[31merror[0m] [0m[0m      val newNeighbors = newNeighborsOnly(neighbors.to(LazyList), explored)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

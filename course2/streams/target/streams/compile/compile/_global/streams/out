@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala-course/course2/streams/src/main/scala/streams/Solver.scala:11:35: comparing case class values of types Solver.this.Block and (Solver.this.Pos, Solver.this.Pos) using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def done(b: Block): Boolean = b == (goal, goal) && b.isStanding[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

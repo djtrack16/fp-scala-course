@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/dliddell/Desktop/code/fp-scala-course/course2/streams/target/scala-2.13/progfun2-streams_2.13-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streams/Bloxorz.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala-course/course2/streams/src/main/scala/streams/Bloxorz.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streams/GameDef.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala-course/course2/streams/src/main/scala/streams/GameDef.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streams/InfiniteTerrain.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala-course/course2/streams/src/main/scala/streams/InfiniteTerrain.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streams/Solver.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala-course/course2/streams/src/main/scala/streams/Solver.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streams/StringParserTerrain.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala-course/course2/streams/src/main/scala/streams/StringParserTerrain.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
