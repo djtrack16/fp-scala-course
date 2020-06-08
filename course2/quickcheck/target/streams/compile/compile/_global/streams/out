@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala-course/course2/quickcheck/src/main/scala/quickcheck/QuickCheck.scala:15:5: Unmatched closing brace '}' ignored here[0m
+[0m[[0m[31merror[0m] [0m[0m    } yield insert(value, heap)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala-course/course2/quickcheck/src/main/scala/quickcheck/QuickCheck.scala:15:7: '}' expected but 'yield' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    } yield insert(value, heap)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dliddell/Desktop/code/fp-scala-course/course2/quickcheck/src/main/scala/quickcheck/QuickCheck.scala:102:1: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
