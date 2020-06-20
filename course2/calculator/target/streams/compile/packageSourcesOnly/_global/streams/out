@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/dliddell/Desktop/code/fp-scala-course/course2/calculator/target/scala-2.13/progfun2-calculator_2.13-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/Calculator.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala-course/course2/calculator/src/main/scala/calculator/Calculator.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/Interfaces.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala-course/course2/calculator/src/main/scala/calculator/Interfaces.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/Polynomial.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala-course/course2/calculator/src/main/scala/calculator/Polynomial.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/Signal.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala-course/course2/calculator/src/main/scala/calculator/Signal.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator/TweetLength.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dliddell/Desktop/code/fp-scala-course/course2/calculator/src/main/scala/calculator/TweetLength.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

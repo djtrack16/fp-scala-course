@@ -1,0 +1,40 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for org.scalacheck.ScalaCheckFramework produced 0 initial tasks for 0 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(calculator.CalculatorSuite, sbt.ForkMain$AnnotatedFingerscan@399ae1f6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mCyclic dependencies should result in NaN[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mCyclic dependencies should result in NaN[0m finished, took 0.081 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mSelf dependency[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mSelf dependency[0m finished, took 0.01 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mIf b previously depended on a, but no longer does, then it should not be recomputed anymore when a changes[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mIf b previously depended on a, but no longer does, then it should not be recomputed anymore when a changes[0m finished, took 0.014 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mtweetRemainingCharsCount with a constant signal[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mtweetRemainingCharsCount with a constant signal[0m finished, took 0.068 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mExpressions corresponding to every variable should be correctly evaluated[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mExpressions corresponding to every variable should be correctly evaluated[0m finished, took 0.026 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mtweetRemainingCharsCount's result signal should follow the input signal[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mtweetRemainingCharsCount's result signal should follow the input signal[0m finished, took 0.008 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mWhen an expression changes, other variables that depend on it should be recomputed[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mWhen an expression changes, other variables that depend on it should be recomputed[0m finished, took 0.011 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mWhen an expression changes, *only* the variables that depend on it should be recomputed[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mWhen an expression changes, *only* the variables that depend on it should be recomputed[0m finished, took 0.016 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mcomputeDelta test[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mcomputeDelta test[0m finished, took 0.013 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mcolorForRemainingCharsCount with a constant signal"[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mcolorForRemainingCharsCount with a constant signal"[0m finished, took 0.008 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mtweetRemainingCharsCount with a supplementary char[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mtweetRemainingCharsCount with a supplementary char[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mcomputeSolutions test[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mcomputeSolutions test[0m finished, took 0.016 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mReferencing an unknown variable should result in NaN[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest calculator.[33mCalculatorSuite[0m.[36mReferencing an unknown variable should result in NaN[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 13 total, 0.32s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 13 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for ScalaCheck not available.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 13, Failed 0, Errors 0, Passed 13[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calculator.CalculatorSuite[0m
