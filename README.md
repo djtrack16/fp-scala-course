@@ -1,5 +1,8 @@
 # fp-scala-course
-Code for Functional Programming in Scala Specialization
+My solutions for "Functional Programming in Scala Specialization" Coursera classes
 
-Course 1 code by Martin Odersky, and all the assignments
-I'll add the other courses as I finish them.
+Course 1: Functional Programming Principles in Scala - DONE<br/>
+Course 2: Functional Programming Design in Scala - IN PROGRESS<br/>
+Course 3: Parallel Programming - TODO<br/>
+Course 4: Big Data Analysis in Scala and Spark - TODO<br/>
+Course 5: Functional Programming in Scala Capstone - TODO<br/>
