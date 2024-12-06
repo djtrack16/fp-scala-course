@@ -1,5 +1,5 @@
 # fp-scala-course
-My solutions for "Functional Programming in Scala Specialization" Coursera classes
+My solutions for "Functional Programming in Scala Specialization" [Coursera classes](https://www.coursera.org/specializations/scala)
 
 Course 1: Functional Programming Principles in Scala - Done<br/>
 Course 2: Functional Programming Design in Scala - Done (except JSON Codecs assignment)<br/>
